@@ -1,0 +1,10 @@
+{
+    "displays": [
+        {"id": 1, "name": "pc_display", "content": "content1"},
+        {"id": 2, "name": "data_memory_display", "content": "content2"}
+    ],
+    "screens": [
+        {"id": 3, "name": "screen", "src": "", "height": 480, "width": 640},
+        {"id": 4, "name": "sprites", "src": "", "height": 16, "width": 160}
+    ]
+}
